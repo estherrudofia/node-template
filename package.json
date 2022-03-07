@@ -1,0 +1,19 @@
+{
+  "name": "trial",
+  "version": "1.0.0",
+  "description": "trial version of node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Estherr",
+  "license": "ISC",
+  "dependencies": {
+    "slugify": "^1.6.5",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
